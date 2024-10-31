@@ -45,3 +45,6 @@ Visual Studio Community 2022
     │
     └── Game.sln(こちらを起動して下さい)
 </pre>
+
+# exeダウンロードは以下リンクからお願いします。
+[ダウンロードはこちらから](https://drive.google.com/drive/folders/1SXRFngX_-Py3oXohAxaKp7yTDwsW48EE)  
